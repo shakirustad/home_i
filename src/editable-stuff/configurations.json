@@ -1,0 +1,39 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "FirstName": "Ismael",
+  "MiddleName": "",
+  "LastName": "Ali",
+  "devDesc": " | Programmer | Student | Maker | Hacker | Developer ",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/shakirustad",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/ali-ismail-lee/",
+      "style": "socialicons"
+    }
+  ],
+  "aboutHeading": "About Me",
+  "showInstaProfilePic": true,
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "jefferyjohn_",
+  "instaQuerry": "/?__a=1",
+  "aboutDescription": "Hello! My name is Ismael Ali, and I am a Data Scientist and Automations Expert . I hope to pursue additional studies in cyber security and law, with the goal of assisting in meaningful policy change.",
+  "projectHeading": "Recent Projects",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "shakirustad",
+  "gitHubQuery": "/repos?sort=updated&direction=desc",
+  "projectsLength": 4,
+  "mediaHeading": "Featured Media",
+  "contactHeading": "Contact Me",
+  "contactDescription": "Please don't hesitate to schedule a meeting through Calendly. This will create an event on my calendar, as well as send an invitation for the platform of your choice to both of us. Alternatively, feel free to reach out directly by email ",
+  "showNavigationbar": true,
+  "showBlog": false
+}
